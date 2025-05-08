@@ -1,5 +1,7 @@
 # React + Vite
 
+I created a page which includes different types news(like sport,magazine,healthy...) on this project by using Css,Html,Javascript(React library).When you click on news link, you can access their contents in other page.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
